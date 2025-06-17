@@ -4,6 +4,9 @@ import { BsCheckLg } from "react-icons/bs";
 import React, { useState,useEffect } from "react";
 
 function App() {
+  const backgroundStyle = {
+    backgroundImage: "url('/images/black-notebook-with-pen-black-background-3d-illustration_291814-834.jpg')"
+  };
   const [isCompleteScreen,setIsCompleteScreen] = useState(false);
   const [allTodos,setTodos] = useState([]);
   const [newTitle,setnewTitle] = useState("");

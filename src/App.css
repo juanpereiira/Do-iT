@@ -1,5 +1,5 @@
-body{
-  background-image: url('D:\Web Development\Do-iT\src\black-notebook-with-pen-black-background-3d-illustration_291814-834.jpg'); /* Path relative to public folder */
+body{ 
+  background-color: black;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -13,8 +13,8 @@ h3{
   text-align: center;
   font-size:xx-large;
   background: 20px;
-  background: linear-gradient(to right, #000000ce, #0e853a);
-  width:816px;
+  background: #0e853a;
+  width:50%;
   border-radius: 3px;
   margin-left: auto;
   margin-right: auto;
@@ -25,6 +25,7 @@ h3{
 }
 
 .todo-wrapper{
+align-items: center;
 background: #353434;
 padding:3%;
 border-radius:3px;
