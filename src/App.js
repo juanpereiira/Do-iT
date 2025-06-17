@@ -2,6 +2,7 @@ import './App.css';
 import { AiOutlineDelete } from "react-icons/ai";
 import { BsCheckLg } from "react-icons/bs";
 import React, { useState,useEffect } from "react";
+import notebook from 'src\black-notebook-with-pen-black-background-3d-illustration_291814-834.jpg'; // depending on your structure
 
 function App() {
   const [isCompleteScreen,setIsCompleteScreen] = useState(false);
