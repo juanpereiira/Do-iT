@@ -66,7 +66,7 @@ function App() {
   },[])
   return (
     <div className="App">
-        <h3>My Todo List</h3>
+        <h3>My Todo Tasks</h3>
         <div className='todo-wrapper'>
           <div className='todo-input'>
           <div className='todo-input-item'>

@@ -13,7 +13,7 @@ h3{
   text-align: center;
   font-size:xx-large;
   background: 20px;
-  background: linear-gradient(to right, #000000ce, #0e853a);
+  background-color: rgb(247, 144, 0);
   width:816px;
   border-radius: 3px;
   margin-left: auto;
